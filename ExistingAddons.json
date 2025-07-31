@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "title": "TPA",
+      "description": "A Feature that lets Players Teleport to each other"
+    },
+    {
+      "title": "Homes",
+      "description": "A Feature where Players can set homes they can teleport to"
+    },
+    {
+      "title": "MSG",
+      "description": "A Feature that lets Players Chat with each other privately"
+    }
+  ]
+}
