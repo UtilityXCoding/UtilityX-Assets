@@ -2,15 +2,18 @@
   "items": [
     {
       "title": "TPA",
-      "description": "A Feature that lets Players Teleport to each other"
+      "description": "A Feature that lets Players Teleport to each other",
+      "displayitem": "ender_pearl"
     },
     {
       "title": "Homes",
-      "description": "A Feature where Players can set homes they can teleport to"
+      "description": "A Feature where Players can set homes they can teleport to",
+      "displayitem": "red_bed"
     },
     {
       "title": "MSG",
-      "description": "A Feature that lets Players Chat with each other privately"
+      "description": "A Feature that lets Players Chat with each other privately",
+      "displayitem": "book"
     }
   ]
 }
