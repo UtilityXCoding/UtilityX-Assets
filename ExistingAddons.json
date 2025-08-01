@@ -14,11 +14,6 @@
       "title": "MSG",
       "description": "A Feature that lets Players Chat with each other privately",
       "displayitem": "book"
-    },
-    {
-      "title": "Warps",
-      "description": "Server-wide teleportation points",
-      "displayitem": "compass"
     }
   ]
 }
